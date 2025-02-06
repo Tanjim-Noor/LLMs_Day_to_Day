@@ -1,5 +1,4 @@
-# LLM Engineering - Master AI and LLMs
-
+# LLM Engineering (Personal Practice)
 
 ## Part1
 
