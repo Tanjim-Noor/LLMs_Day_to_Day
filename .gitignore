@@ -1,5 +1,6 @@
 # Github's default gitignore for Python
-
+#folder
+codes/vector_db/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
